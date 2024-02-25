@@ -17,4 +17,4 @@ A simple functionalities for text manipulation. It allows users to count occurre
 1. Clone the repository.
 <br>`git clone https://github.com/izzanurafifah/text-manipulation.git`<br>
 2. Run the script:
-<br> `python text_manipulation.py`
+<br> `python text-manipulation.py`
